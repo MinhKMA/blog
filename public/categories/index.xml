@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Minh Nguyen Van</title>
+    <link>https://minhkma.github.io/categories/</link>
+    <description>Recent content in Categories on Minh Nguyen Van</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2016 22:02:15 +0700</lastBuildDate>
+    
+	<atom:link href="https://minhkma.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://minhkma.github.io/categories/about/</link>
+      <pubDate>Fri, 21 Oct 2016 22:02:15 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ccna</title>
+      <link>https://minhkma.github.io/categories/ccna/</link>
+      <pubDate>Wed, 01 May 2019 16:11:38 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/ccna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checkmk</title>
+      <link>https://minhkma.github.io/categories/checkmk/</link>
+      <pubDate>Sun, 21 Oct 2018 21:59:48 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/checkmk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dns</title>
+      <link>https://minhkma.github.io/categories/dns/</link>
+      <pubDate>Tue, 02 Oct 2018 21:29:33 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://minhkma.github.io/categories/docker/</link>
+      <pubDate>Sun, 06 Jan 2019 11:07:09 +0000</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin</title>
+      <link>https://minhkma.github.io/categories/plugin/</link>
+      <pubDate>Thu, 11 Oct 2018 20:35:31 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbitmq</title>
+      <link>https://minhkma.github.io/categories/rabbitmq/</link>
+      <pubDate>Sun, 21 Oct 2018 21:59:39 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/categories/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

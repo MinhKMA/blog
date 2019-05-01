@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Checkmk on Minh Nguyen Van</title>
+    <link>https://minhkma.github.io/categories/checkmk/</link>
+    <description>Recent content in Checkmk on Minh Nguyen Van</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Oct 2018 21:59:48 +0700</lastBuildDate>
+    
+	<atom:link href="https://minhkma.github.io/categories/checkmk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Check MK – Write your own check</title>
+      <link>https://minhkma.github.io/2018/10/check-mk--write-your-own-check/</link>
+      <pubDate>Sun, 21 Oct 2018 21:59:48 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/2018/10/check-mk--write-your-own-check/</guid>
+      <description>Giám sát trạng thái các services trong OpenStack thông qua check_MK Môi trường:  CheckMK 1.5 OpenStack Queens Python3.5
+ Cách cài đặt python3.5  yum -y install https://centos7.iuscommunity.org/ius-release.rpm yum -y install python35u yum -y install python35u-pip yum install python35u-devel -y pip3.5 install python-openstackclient pip3.5 install python-neutronclient   Thực hiện trên phía client  Trước tiên ta kiểm tra xem thực mục đặt plugin phia client
+[root@check_mk plugins]# check_mk_agent | head &amp;lt;&amp;lt;&amp;lt;check_mk&amp;gt;&amp;gt;&amp;gt; Version: 1.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Minh Nguyen Van</title>
+    <link>https://minhkma.github.io/tags/</link>
+    <description>Recent content in Tags on Minh Nguyen Van</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 16:11:38 +0700</lastBuildDate>
+    
+	<atom:link href="https://minhkma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anycast</title>
+      <link>https://minhkma.github.io/tags/anycast/</link>
+      <pubDate>Wed, 01 May 2019 16:11:38 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/anycast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cgroup</title>
+      <link>https://minhkma.github.io/tags/cgroup/</link>
+      <pubDate>Sun, 06 Jan 2019 11:07:09 +0000</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/cgroup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dns</title>
+      <link>https://minhkma.github.io/tags/dns/</link>
+      <pubDate>Wed, 01 May 2019 16:11:38 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/dns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://minhkma.github.io/tags/docker/</link>
+      <pubDate>Wed, 01 May 2019 16:11:38 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Openstack</title>
+      <link>https://minhkma.github.io/tags/openstack/</link>
+      <pubDate>Thu, 11 Oct 2018 20:35:31 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/openstack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin</title>
+      <link>https://minhkma.github.io/tags/plugin/</link>
+      <pubDate>Sun, 21 Oct 2018 21:59:48 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/plugin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabbitmq</title>
+      <link>https://minhkma.github.io/tags/rabbitmq/</link>
+      <pubDate>Sun, 21 Oct 2018 21:59:39 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zabbix</title>
+      <link>https://minhkma.github.io/tags/zabbix/</link>
+      <pubDate>Thu, 11 Oct 2018 20:35:31 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/tags/zabbix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://minhkma.github.io/2019/05/dns-anycast/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2019/01/cgroup/</loc>
+    <lastmod>2019-01-06T11:07:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2018/10/check-mk--write-your-own-check/</loc>
+    <lastmod>2018-10-21T21:59:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2018/10/exchanges-trong-rabbitmq/</loc>
+    <lastmod>2018-10-21T21:59:39+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2018/10/write-your-own-check-to-monitor-resources-in-openstack/</loc>
+    <lastmod>2018-10-11T20:35:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2018/10/dns-ho%E1%BA%A1t-%C4%91%E1%BB%99ng-ra-sao/</loc>
+    <lastmod>2018-10-02T21:29:33+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/2016/10/about-me/</loc>
+    <lastmod>2016-10-21T22:02:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/about/</loc>
+    <lastmod>2016-10-21T22:02:15+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/anycast/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/</loc>
+    <lastmod>2016-10-21T22:02:15+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/ccna/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/cgroup/</loc>
+    <lastmod>2019-01-06T11:07:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/checkmk/</loc>
+    <lastmod>2018-10-21T21:59:48+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/dns/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/dns/</loc>
+    <lastmod>2018-10-02T21:29:33+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/docker/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/docker/</loc>
+    <lastmod>2019-01-06T11:07:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/openstack/</loc>
+    <lastmod>2018-10-11T20:35:31+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/plugin/</loc>
+    <lastmod>2018-10-21T21:59:48+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/plugin/</loc>
+    <lastmod>2018-10-11T20:35:31+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/post/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/rabbitmq/</loc>
+    <lastmod>2018-10-21T21:59:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/categories/rabbitmq/</loc>
+    <lastmod>2018-10-21T21:59:39+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/</loc>
+    <lastmod>2019-05-01T16:11:38+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://minhkma.github.io/tags/zabbix/</loc>
+    <lastmod>2018-10-11T20:35:31+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

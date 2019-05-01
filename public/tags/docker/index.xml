@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Minh Nguyen Van</title>
+    <link>https://minhkma.github.io/tags/docker/</link>
+    <description>Recent content in Docker on Minh Nguyen Van</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 16:11:38 +0700</lastBuildDate>
+    
+	<atom:link href="https://minhkma.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dns anycast</title>
+      <link>https://minhkma.github.io/2019/05/dns-anycast/</link>
+      <pubDate>Wed, 01 May 2019 16:11:38 +0700</pubDate>
+      
+      <guid>https://minhkma.github.io/2019/05/dns-anycast/</guid>
+      <description>DNS anycast Mục đích của bài LAB là tạo ra một mô hình DNS anycast sử dụng Docker.
+Bài LAB sử dụng 6 networks và 8 containers. Các containers được base trên ubuntu server 16.04 bao gồm (4 routers, 2 DNS servers và 2 máy client )
+Cả 2 máy chủ DNS servers đều sử dụng IP anycast. Trên mỗi DNS server quản lý một bản ghi A và bản ghi A đó trỏ đến 2 IP khác nhau</description>
+    </item>
+    
+  </channel>
+</rss>
